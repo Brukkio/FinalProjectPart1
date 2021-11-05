@@ -1,0 +1,8 @@
+ID,ManufacturerName,ItemType,ItemPrice,ServiceDate,DamagedIndicator
+1167234,Apple ,phone,534,2/1/2022,NotDamaged
+2347800,Apple ,laptop,999,7/3/2022,NotDamaged
+2390112,Dell,laptop,799,7/2/2022,NotDamaged
+9034210,Dell,tower,345,5/27/2022,NotDamaged
+7346234,Lenovo,laptop,239,9/1/2022,damaged
+1009453,Lenovo,tower,599,10/1/2023,NotDamaged
+3001265,Samsung,phone,1200,12/1/2023,NotDamaged

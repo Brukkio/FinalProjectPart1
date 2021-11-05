@@ -1,0 +1,4 @@
+ID,ManufacturerName,ItemPrice,ServiceDate,DamagedIndicator
+2347800,Apple ,999,2022-07-03,NotDamaged
+2390112,Dell,799,2022-07-02,NotDamaged
+7346234,Lenovo,239,2022-09-01,damaged
